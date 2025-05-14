@@ -1,4 +1,4 @@
-apt update && apt install git curl nano python3 build-essential gcc libc6-dev figlet -y && \
+sudo apt update && sudo apt install git curl nano python3 build-essential gcc libc6-dev figlet -y && \
 curl https://sh.rustup.rs -sSf | sh -s -- -y && \
 source $HOME/.cargo/env && \
 figlet -c -w 120 "SAINT KHEN" && \

@@ -1,6 +1,6 @@
 # OneClick Nova by SAINT KHEN (@admirkhen)
 
-> WASM + party_cli setup in one click — optimized for Termux / proot-distro Ubuntu
+> WASM + party_cli setup in one click — optimized for PC Ubuntu
 
 ## Run this in your terminal:
 ```bash

@@ -35,7 +35,7 @@ echo '(module
 
 )' > yourfile.wat && \
 cargo build --release && \
-figlet -c -w 120 "RUNNING fib()" && \
+figlet -c -w 120 "SAINT KHEN" && \
 ./target/release/party_cli --wat yourfile.wat && \
 cd proofs && \
 python3 -m http.server 8080

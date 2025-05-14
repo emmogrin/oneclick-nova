@@ -12,5 +12,7 @@ once it's done. paste the below inside your chrome and download both files
 ```bash
 http://localhost:8080/
 ```
-Download instance_fib.json, snark_fib.json head over to zkp.fun/challenges and  complete the airdrop tasks begin from task 2
-
+Download instance_fib.json, snark_fib.json head over to (zkp.fun/challenges) and  complete the airdrop tasks, begin with task 2
+```bash
+zkp.fun/challenges
+```
